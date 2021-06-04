@@ -1,0 +1,20 @@
+.btn3{
+    margin-right: 10px;
+}
+.row{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.kosay{
+    min-height: 30vh;
+}
+.cards_container{
+    margin: 10px;
+    width: 20vw;
+}
+.img_card{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+}
